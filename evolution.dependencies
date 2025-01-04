@@ -1,0 +1,14 @@
+[
+  {
+    "remote"      : "github",
+    "repository"  : "Hax-Techs/kernel_samsung_sm7125",
+    "branch"      : "vic",
+    "target_path" : "kernel/samsung/sm7125"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "Hax-Techs/hardware_samsung",
+    "branch"      : "vic",
+    "target_path" : "hardware/samsung"
+  }
+]
